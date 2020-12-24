@@ -5,5 +5,6 @@ class Box extends BaseClass {
   }
 display(){
   super.display();
+  console.log("edited file");
 }
 };
